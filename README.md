@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Git X](public/logo.png)
+![Git X](public/https://cdn.mos.cms.futurecdn.net/W5LnBksnN2E3PTCdgDF9g3.png)
 
 # Git X
 
