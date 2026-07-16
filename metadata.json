@@ -1,0 +1,6 @@
+{
+  "name": "Git X",
+  "description": "Git X — это ультрасовременный PWA-клиент для управления проектами, задачами, заметками и кодом, интегрированный с ИИ (OpenAI, Gemini), GitHub, Vercel и Supabase. Работает в оффлайн-режиме, защищает ваши API-ключи с помощью шифрования Web Crypto API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
